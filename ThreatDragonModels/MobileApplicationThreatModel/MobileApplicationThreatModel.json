@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "MobileApplicationThreatModel",
+    "owner": "Shashank",
+    "description": "A test for delivering threat model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Shashank"
+  }
+}
